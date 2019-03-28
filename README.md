@@ -28,7 +28,7 @@ const upload = multer({
 ```
 
 ### test
-use `postman` send an POST request
+use `postman` send an POST request `127.0.0.1:3000`
 
 #### test1
 ![image info](https://github.com/flameddd/multer_test/blob/master/assets/001.jpg)  
