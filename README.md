@@ -31,16 +31,16 @@ const upload = multer({
 use `postman` send an POST request
 
 #### test1
-![image info](./assets/001.jpg)  
+![image info](https://github.com/flameddd/multer_test/blob/master/assets/001.jpg)  
 ##### result: 
 > { gid: 'aaaa', uid: 'bbbb' }
 
 #### test2
-![image info](./assets/002.jpg)  
+![image info](https://github.com/flameddd/multer_test/blob/master/assets/002.jpg)  
 ##### result: 
 > { gid: 'aaaa' }
 
 #### test3
-![image info](./assets/003.jpg)  
+![image info](https://github.com/flameddd/multer_test/blob/master/assets/003.jpg)  
 ##### result: 
 > {}
