@@ -1,3 +1,10 @@
+## update issue
+- https://github.com/expressjs/multer/issues/724
+
+> LinusU：
+> This is a limitation of how the form-data format works, and unfortunately, there is no way to work around it.
+> What you could do is accept all files and then later filter thru and remove the ones you don't want...
+
 ## Multer fileFilter test
 This repo is for reproduce `multer`'s `fileFilter feature in specific scenario.
 
